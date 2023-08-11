@@ -4,16 +4,3 @@
     numb
     sum
 -->
-
-
-<?php
-
-function number($numbs) {
-    numA = 3;
-    numB = 7;
-
-    
-}
-
-
-?>
